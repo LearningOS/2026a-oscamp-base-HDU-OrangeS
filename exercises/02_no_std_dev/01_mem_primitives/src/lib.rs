@@ -89,7 +89,7 @@ pub unsafe extern "C" fn my_memmove(dst: *mut u8, src: *const u8, n: usize) -> *
 #[unsafe(no_mangle)]
 pub unsafe extern "C" fn my_strlen(s: *const u8) -> usize {
     // TODO: Implement strlen
-    let met count=0;
+    let mut count=0;
     unsafe{
         while *s.add(count)!=0{
             count+=1;
