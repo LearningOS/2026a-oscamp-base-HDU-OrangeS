@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HDU-OrangeS",
-  "commit": "c5b2b1b74faf1891ccb0dbcb314f7dabf48d22ca",
-  "score": 24,
+  "commit": "9cc702e8a5c04536e194c4d1eb0c66b4371d80c0",
+  "score": 29,
   "totalScore": 100,
   "exercises": [
     {
@@ -51,9 +51,9 @@
     {
       "name": "free_list_allocator",
       "max": 5,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 5,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "syscall_wrapper",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HDU-OrangeS",
-  "runId": "41035189534",
+  "runId": "41066631726",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
