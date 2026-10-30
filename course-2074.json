@@ -2,7 +2,7 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HDU-OrangeS",
-  "commit": "612e5cacae633b12ee3b4bbebe529d8570b289ee",
+  "commit": "64f66dc18a378b879f015f5aba3107afceb48bb7",
   "score": 15,
   "totalScore": 100,
   "exercises": [
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HDU-OrangeS",
-  "runId": "41018410150",
+  "runId": "41018710639",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
