@@ -112,9 +112,9 @@ pub unsafe extern "C" fn my_strcmp(s1: *const u8, s2: *const u8) -> i32 {
     // TODO: Implement strcmp
     let mut i =0;
     loop{
-        let a=unsafe{*s1.add(i);}
+        let a=unsafe{*s1.add(i)};
 
-        let b=unsafe{*s2.add(i);}
+        let b=unsafe{*s2.add(i)};
         if a!=b{
             return a as i32- b as i32;        
         }
