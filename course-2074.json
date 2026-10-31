@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HDU-OrangeS",
-  "commit": "89acf404baf95f5fcd797461e3672764bfbce84f",
-  "score": 39,
+  "commit": "d251f5942904a7e94fe1ab502a7f6576093f2e47",
+  "score": 43,
   "totalScore": 100,
   "exercises": [
     {
@@ -72,9 +72,9 @@
     {
       "name": "atomic_counter",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "atomic_ordering",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HDU-OrangeS",
-  "runId": "41169885963",
+  "runId": "41209682797",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
