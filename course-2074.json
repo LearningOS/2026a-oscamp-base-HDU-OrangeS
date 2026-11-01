@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HDU-OrangeS",
-  "commit": "e476835b372ffcd53275bec979df63cde552cbfc",
-  "score": 51,
+  "commit": "2686f15b8b2397222dd7b5876f319c194bf2931e",
+  "score": 55,
   "totalScore": 100,
   "exercises": [
     {
@@ -93,9 +93,9 @@
     {
       "name": "spinlock_guard",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "rwlock",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HDU-OrangeS",
-  "runId": "41212950981",
+  "runId": "41331742146",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
