@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HDU-OrangeS",
-  "commit": "960478e9cfc54e0d6ca8da2a331e6a32920cf0f9",
-  "score": 89,
+  "commit": "39066908085d6b9527f3f42134a4b805d08278eb",
+  "score": 93,
   "totalScore": 100,
   "exercises": [
     {
@@ -156,9 +156,9 @@
     {
       "name": "page_table_walk",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "multi_level_pt",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HDU-OrangeS",
-  "runId": "41475776550",
+  "runId": "41477346641",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
