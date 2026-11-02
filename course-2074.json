@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HDU-OrangeS",
-  "commit": "d966ab800819165fa10bdb759f03667673ed09d5",
-  "score": 82,
+  "commit": "d4989e70c656fb32bfd24f4a7351b3048647a26e",
+  "score": 86,
   "totalScore": 100,
   "exercises": [
     {
@@ -142,9 +142,9 @@
     {
       "name": "select_timeout",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "pte_flags",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HDU-OrangeS",
-  "runId": "41460837575",
+  "runId": "41461242576",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
