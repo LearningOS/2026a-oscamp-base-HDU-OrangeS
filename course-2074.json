@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HDU-OrangeS",
-  "commit": "d247d8bb5428e47bf2d7cc7049edfda3991a8d2a",
-  "score": 76,
+  "commit": "a424b34f390f188461586b308773c3a5565f944c",
+  "score": 79,
   "totalScore": 100,
   "exercises": [
     {
@@ -128,9 +128,9 @@
     {
       "name": "tokio_tasks",
       "max": 3,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 3,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "async_channel_ex",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HDU-OrangeS",
-  "runId": "41441680260",
+  "runId": "41459773797",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
