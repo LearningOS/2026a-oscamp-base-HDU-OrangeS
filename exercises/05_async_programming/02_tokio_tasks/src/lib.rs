@@ -17,7 +17,10 @@ pub async fn concurrent_squares(n: usize) -> Vec<usize> {
     // TODO: Create n asynchronous tasks, each computing i * i
     // TODO: Collect all JoinHandle
     // TODO: Await each one to get result
-    todo!()
+    let mut handles=Vec::new();
+    for i in 0..n{
+        
+    }
 }
 
 /// Concurrently execute multiple "time-consuming" tasks (simulated with sleep), return all results.
