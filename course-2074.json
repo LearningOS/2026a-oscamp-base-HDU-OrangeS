@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HDU-OrangeS",
-  "commit": "39066908085d6b9527f3f42134a4b805d08278eb",
-  "score": 93,
+  "commit": "3519b66c0c8ee769c757476702a9ff4c2d9b8c40",
+  "score": 96,
   "totalScore": 100,
   "exercises": [
     {
@@ -170,15 +170,15 @@
     {
       "name": "tlb_sim",
       "max": 3,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 3,
+      "status": "pass",
+      "exitCode": 0
     }
   ],
   "student": "HDU-OrangeS",
-  "runId": "41477346641",
+  "runId": "41479049035",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
